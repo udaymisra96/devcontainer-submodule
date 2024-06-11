@@ -1,1 +1,4 @@
 # devcontainer-submodule
+This repository contains the configuration files necessary to develop the MyFriendBen benefits-api application within a devcontainer. Using a devcontainer enables containerized development, which minimizes the need for local installations and builds. This approach enhances portability and hardware agnosticism, facilitating seamless development and deployment of the application.
+
+By using services like GitHub Codespaces, you can develop the application for free in isolation without any local installations. This setup also allows  development across different machines with for a consistent development environment. The configuration includes installing requirements and creating environmental variables as secrets, reducing the amount of setup needed to being running the test server.
